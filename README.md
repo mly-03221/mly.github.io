@@ -1,3 +1,4 @@
+<title>Artikel M$N</title>
 <h2>KORUPSI: Penyakit kronis Indonesia</h2>
 
 Mulya Rahmdani & Nabila | 18 Desember 2024
@@ -23,25 +24,22 @@ Korupsi menghambat pertumbuhan ekonomi, mengurangi investasi, dan meningkatkan k
 Korupsi merusak kepercayaan masyarakat terhadap pemerintah dan memicu ketidakstabilan Politik.</Li>
 
 ****UPAYA PEMBERANTASAN KORUPSI:****
+<oL>
+  <Li>Memperkuat lembaga penegakan hukum, meningaktkan efektifitas penindakan, dan memberikan hukuman yang setimpal pada pelaku korupsi.</Li>
+  <Li>Meningkatkan transparansi dalam pengelolaan anggaran dan kebijakan publik melalui e-gevorment dan partisipasi masyarakat.</Li>
+  <Li>Memperbaiki sistem birokrasi, menyederhanakan prosedur, dan memberikan insentif bagai pegawai yang jujur dan berintegrasi.</Li>
+  <Li>Meningkatkan kesadaran masyarakat tentang bahaya korupsi melalui pendidikan anti-korupsi sejak dini.</Li>
+</oL>
 
-Memperkuat lembaga penegakan hukum, meningaktkan efektifitas penindakan, dan memberikan hukuman yang setimpal pada pelaku korupsi.
-Meningkatkan transparansi dalam pengelolaan anggaran dan kebijakan publik melalui e-gevorment dan partisipasi masyarakat.
-Memperbaiki sistem birokrasi, menyederhanakan prosedur, dan memberikan insentif bagai pegawai yang jujur dan berintegrasi.
-Meningkatkan kesadaran masyarakat tentang bahaya korupsi melalui pendidikan anti-korupsi sejak dini.
-Tindakan dilakukan oleh Presiden RI
-Adapun tindakan yang dilakukan oleh Presiden RI Prabowo Subianto padahan tahun 2024, bergerak cepat menangkap puluhan koruptor pada kurun waktu kerja 10 hari menjabat sebagai Presiden. Sejumlah kasus korupsi tersebut diantaranya menjerat satu orang dari PT AP sebagai tersangka baru dalam dugaan korupsi izin ekspor minyak sawit mentah (crude palm oil/CPO) dan turunnya pada priode 2021-2022 yang mencapai kerugian Rp 1 triliun, 2 dua orang dari dari Dana Desa Kecamatan Air Besi Kabupaten Bengkulu Utara senilai Rp 780 juta, lima orang tersangka kasus RT. (Di ambil dari laman RRi.co.id)
 
-****Kesimpulan****
+<p>
+  <h2>Tindakan dilakukan oleh Presiden RI</h2>
+
+Adapun tindakan yang dilakukan oleh Presiden RI Prabowo Subianto padahan tahun 2024, bergerak cepat menangkap puluhan koruptor pada kurun waktu kerja 10 hari menjabat sebagai Presiden. Sejumlah kasus korupsi tersebut diantaranya menjerat satu orang dari PT AP sebagai tersangka baru dalam dugaan korupsi izin ekspor minyak sawit mentah (crude palm oil/CPO) dan turunnya pada priode 2021-2022 yang mencapai kerugian Rp 1 triliun, 2 dua orang dari dari Dana Desa Kecamatan Air Besi Kabupaten Bengkulu Utara senilai Rp 780 juta, lima orang tersangka kasus RT. (Di ambil dari laman RRi.co.id)</P>
+
+<h2>Kesimpulan</h2>
 
 Korupsi adalah ancaman serius bagi keberlangsungan bangsa. Untuk mengatai masalah ini, diperlukan upaya yang komprensif dan berkelanjutan dari semua pihak. Dengan kerja sama yang baik, kita dapat membangun Indonesia yang bebas dari korupsidan mewujudkan kesejaheraan bagi seluruh masyarakat.
 
 © 2024 Mulya . Semua hak dilindungi.
 
-Korupsi
-Ini adalah konten artikel yang menarik. Bacalah dan berikan reaksi Anda!
-
-👍 Suka 👎 Tidak Suka 💬 Komentar
-Selamat Datang di Blog Kami
-Untuk belajar lebih lanjut tentang HTML, silakan baca artikel berikut:
-
-Korupsi:
