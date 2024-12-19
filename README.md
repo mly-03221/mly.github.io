@@ -1,4 +1,4 @@
-KORUPSI: Penyakit kronis Indonesia
+<h2>KORUPSI: Penyakit kronis Indonesia</h2>
 
 Mulya Rahmdani & Nabila | 18 Desember 2024
 
@@ -6,23 +6,23 @@ Korupsi di indonesia telah menjadi penyakit kronis yang menggerogoti berbagai as
 
 Korupsi, sebuh penyakit sosial yang telah lama menggerogoti Indonesia, seolah menjadi benalu yang sulit dicabut dari akarnya. Praktik penyahlagunaan kekuasaan untuk keuntungan pribadi telah menjadi masalah struktural yang kompleks, melibatkan berbagai lapisan masyarakat dan sistem pemerintah. 
 
-AKAR MASALAH:
+****AKAR MASALAH:****
 
-Kultur: Budaya korupsi yang telah mengakar dalam masyarakat membuat praktik ini dianggap sebagai hal yng bisa dan sulit diubah.
+<Li>Kultur: Budaya korupsi yang telah mengakar dalam masyarakat membuat praktik ini dianggap sebagai hal yng bisa dan sulit diubah.</Li>
 
-Penegakan Hukum:Lemahnya penegakan hukum terhadap pelaku korupsi membuat mereka merasa aman dan terus melakukan tindakan yang merugikan negara. 
+<Li>Penegakan Hukum:Lemahnya penegakan hukum terhadap pelaku korupsi membuat mereka merasa aman dan terus melakukan tindakan yang merugikan negara.</Li>
 
-Transparansi: Kurangnya transparansi dalam pengelolaan anggaran dan kebijakan publik membuka celah bagi terjadinya korupsi.
+<Li>Transparansi: Kurangnya transparansi dalam pengelolaan anggaran dan kebijakan publik membuka celah bagi terjadinya korupsi.</Li>
 
-DAMPAK KORUPSI:
+****DAMPAK KORUPSI:****
 
-Ekonomi:
-Korupsi menghambat pertumbuhan ekonomi, mengurangi investasi, dan meningkatkan kesenjangan sosial.
+<Li>Ekonomi:
+Korupsi menghambat pertumbuhan ekonomi, mengurangi investasi, dan meningkatkan kesenjangan sosial.</Li>
 
-Politik:
-Korupsi merusak kepercayaan masyarakat terhadap pemerintah dan memicu ketidakstabilan Politik.
+<Li>Politik:
+Korupsi merusak kepercayaan masyarakat terhadap pemerintah dan memicu ketidakstabilan Politik.</Li>
 
-UPAYA PEMBERANTASAN KORUPSI:
+****UPAYA PEMBERANTASAN KORUPSI:****
 
 Memperkuat lembaga penegakan hukum, meningaktkan efektifitas penindakan, dan memberikan hukuman yang setimpal pada pelaku korupsi.
 Meningkatkan transparansi dalam pengelolaan anggaran dan kebijakan publik melalui e-gevorment dan partisipasi masyarakat.
@@ -31,7 +31,7 @@ Meningkatkan kesadaran masyarakat tentang bahaya korupsi melalui pendidikan anti
 Tindakan dilakukan oleh Presiden RI
 Adapun tindakan yang dilakukan oleh Presiden RI Prabowo Subianto padahan tahun 2024, bergerak cepat menangkap puluhan koruptor pada kurun waktu kerja 10 hari menjabat sebagai Presiden. Sejumlah kasus korupsi tersebut diantaranya menjerat satu orang dari PT AP sebagai tersangka baru dalam dugaan korupsi izin ekspor minyak sawit mentah (crude palm oil/CPO) dan turunnya pada priode 2021-2022 yang mencapai kerugian Rp 1 triliun, 2 dua orang dari dari Dana Desa Kecamatan Air Besi Kabupaten Bengkulu Utara senilai Rp 780 juta, lima orang tersangka kasus RT. (Di ambil dari laman RRi.co.id)
 
-Kesimpulan
+****Kesimpulan****
 
 Korupsi adalah ancaman serius bagi keberlangsungan bangsa. Untuk mengatai masalah ini, diperlukan upaya yang komprensif dan berkelanjutan dari semua pihak. Dengan kerja sama yang baik, kita dapat membangun Indonesia yang bebas dari korupsidan mewujudkan kesejaheraan bagi seluruh masyarakat.
 
