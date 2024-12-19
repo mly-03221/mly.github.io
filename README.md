@@ -1,4 +1,3 @@
-<title>Artikel M$N</title>
 <h2>KORUPSI: Penyakit kronis Indonesia</h2>
 
 Mulya Rahmdani & Nabila | 18 Desember 2024
